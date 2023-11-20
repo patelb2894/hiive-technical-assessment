@@ -1,3 +1,5 @@
+Test cases: https://github.com/patelb2894/hiive-technical-assessment/blob/main/timezone-app/Timezone%20app%20testcases%20-%20Testcases.pdf
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
